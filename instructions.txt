@@ -1,1 +1,6 @@
-https://github.com/manacleto/git-tutorial-uv2l.git
+Create a file called <surname>.txt
+
+Include the following info:
+  1. Name
+  2. Nickname
+  3. Message to the class
